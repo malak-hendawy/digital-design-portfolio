@@ -1,0 +1,98 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CopperplateGothic-Bold
+FamilyName:Copperplate Gothic Bold
+StyleName:Regular
+FullName:Copperplate Gothic Bold
+MenuName:Copperplate Gothic Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\malak\OneDrive\Desktop\Invitation Folder\Document fonts\COPRGTB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61552
+FileModTime:1716485521
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Copperplate Gothic Bold
+NameArray:0,Win,1,Copperplate Gothic Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Heavy
+FamilyName:Franklin Gothic Heavy
+StyleName:Regular
+FullName:Franklin Gothic Heavy
+MenuName:Franklin Gothic Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\malak\OneDrive\Desktop\Invitation Folder\Document fonts\FRAHV.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139400
+FileModTime:1716485521
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Franklin Gothic Heavy
+NameArray:0,Win,1,Franklin Gothic Heavy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\malak\OneDrive\Desktop\Invitation Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97072
+FileModTime:1746803664
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftNewTaiLue-Bold
+FamilyName:Microsoft New Tai Lue
+StyleName:Bold
+FullName:Microsoft New Tai Lue Bold
+MenuName:Microsoft New Tai Lue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\malak\OneDrive\Desktop\Invitation Folder\Document fonts\ntailub.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67168
+FileModTime:1711959729
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Microsoft New Tai Lue Bold
+NameArray:0,Win,1,Microsoft New Tai Lue
+%EndFont
+
